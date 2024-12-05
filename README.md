@@ -49,9 +49,3 @@
 - 신뢰성 있는 데이터 기반 상담 서비스를 통해 사용자 만족도를 높입니다.
 
 ---
-
-## 설치 및 실행 방법
-
-1. 프로젝트를 클론합니다.
-   ```bash
-   git clone https://github.com/your-repo-name.git
