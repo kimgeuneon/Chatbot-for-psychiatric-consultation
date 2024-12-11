@@ -1,5 +1,7 @@
 # RAG 기반 감정 분석 및 상담 시스템
 
+# 이사했습니다. https://github.com/Chatbot-for-psychiatric-consultation
+
 ## 프로젝트 개요
 
 ### 프로젝트의 필요성과 목적
